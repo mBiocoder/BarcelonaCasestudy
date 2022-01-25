@@ -1,7 +1,5 @@
 ---
-title: "Data Analysis and Visualization in R (IN2339)"
-subtitle: "Case Study"
-author: "Mahima Arunkumar, Mariem Aboushawareb, Merve Kılıçarslan, Hoda Hamdy"
+title: "Case Study"
 date: "`r Sys.Date()`"
 output:
   pdf_document: default
